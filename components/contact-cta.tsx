@@ -58,7 +58,7 @@ export function ContactCTA() {
           </a>
 
           <a
-            href="https://wa.me/94771234567"
+            href="https://wa.me/message/FV5EWWATDD4GG1"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
