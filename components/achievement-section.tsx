@@ -25,7 +25,7 @@ export function AchievementSection() {
                         <StatCard
                             icon={<GearCheckIcon />}
                             number="50+"
-                            label="Satisfied Web Clients"
+                            label="Satisfied Clients"
                         />
                         <StatCard
                             icon={<CheckIcon />}
@@ -34,7 +34,7 @@ export function AchievementSection() {
                         />
                         <StatCard
                             icon={<ServerRackIcon />}
-                            number="10+"
+                            number="#"
                             label="Satisfied Hosting Clients"
                         />
                     </div>
