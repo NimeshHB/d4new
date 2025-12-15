@@ -52,8 +52,11 @@ export function Header() {
           </nav>
 
           {/* CTA Button */}
-          <Button className="mint-btn mint-glow mint-focus rounded-none px-6 font-black uppercase tracking-wider">
-            {"Start Project"}
+            <a href="https://wa.me/message/FV5EWWATDD4GG1">
+            <Button className="mint-btn mint-glow mint-focus rounded-none px-6 font-black uppercase tracking-wider">
+              {"Start Project"}
+            </Button>
+            </a>
           </Button>
         </div>
       </div>
