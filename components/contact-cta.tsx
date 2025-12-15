@@ -7,7 +7,7 @@ export function ContactCTA() {
       <div className="container mx-auto text-center">
         <div className="mx-auto mb-3 w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24">
           <Image
-            src="/dfour-logo.jpg"
+            src="/logo.png"
             alt="DFour logo"
             width={1960}
             height={1296}
