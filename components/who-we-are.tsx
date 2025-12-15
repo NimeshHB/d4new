@@ -44,7 +44,7 @@ export default function WhoWeAre(): JSX.Element {
               <Image src="/chalana.svg" alt="Team member1" width={640} height={480} className="w-full h-auto object-cover" />
             </div>
             <div className="rounded-xl overflow-hidden shadow-lg">
-              <Image src="/Nimesh.svg" alt="Team member2" width={640} height={480} className="w-full h-auto object-cover" />
+              <Image src="/nimesh.svg" alt="Team member2" width={640} height={480} className="w-full h-auto object-cover" />
             </div>
           </div>
         </div>
