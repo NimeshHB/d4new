@@ -24,9 +24,11 @@ export function ContactCTA() {
           Ready to transform your digital presence? We're currently accepting new projects.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button className="bg-black hover:bg-black/80 text-white rounded-none px-12 py-8 text-xl font-black uppercase tracking-widest shadow-xl">
-            Start Your Project
-          </Button>
+          <a href="https://wa.me/message/FV5EWWATDD4GG1" target="_blank" rel="noopener noreferrer">
+            <Button className="bg-black hover:bg-black/80 text-white rounded-none px-12 py-8 text-xl font-black uppercase tracking-widest shadow-xl">
+              Start Your Project
+            </Button>
+          </a>
         </div>
         <div className="mt-8 flex items-center justify-center gap-4">
           <a
